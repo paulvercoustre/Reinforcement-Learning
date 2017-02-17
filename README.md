@@ -1,2 +1,2 @@
 # Reinforcement-Learning
-CentraleSupélec cource in Reinforcement Learning & Information Theory
+CentraleSupélec course in Reinforcement Learning & Information Theory
